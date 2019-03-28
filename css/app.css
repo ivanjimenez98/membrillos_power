@@ -20,7 +20,7 @@ body {
 
 header {
     font-size: 54px;
-    margin: auto 0 0;
+    margin: 0 0 auto;
     text-align: center;
     background-color: green;
 }

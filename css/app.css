@@ -13,17 +13,14 @@ html {
 }
 
 body {
-    color: red;
-    /* height: 100vh; */
-    /* display: flex;
-    flex-direction: column; */
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
-
-/* 
 footer {
     font-size: 54px;
     margin: auto 0 0;
     text-align: center;
     background-color: green;
-} */
+}
